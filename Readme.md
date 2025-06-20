@@ -4,6 +4,7 @@
 
 This project involves analyzing Zomato data to understand various aspects of restaurant performance and customer preferences. The analysis aims to answer key business questions about restaurant types, customer ratings, and order behaviors using Python and its libraries.
 
+
 ## Technologies Used
 
 - **Python**: Programming language used for data analysis.
